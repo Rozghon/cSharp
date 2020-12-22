@@ -1,0 +1,11 @@
+C:\Users\den40\source\repos\SR\SR\bin\Debug\netcoreapp3.1\SR.exe
+C:\Users\den40\source\repos\SR\SR\bin\Debug\netcoreapp3.1\SR.deps.json
+C:\Users\den40\source\repos\SR\SR\bin\Debug\netcoreapp3.1\SR.runtimeconfig.json
+C:\Users\den40\source\repos\SR\SR\bin\Debug\netcoreapp3.1\SR.runtimeconfig.dev.json
+C:\Users\den40\source\repos\SR\SR\bin\Debug\netcoreapp3.1\SR.dll
+C:\Users\den40\source\repos\SR\SR\bin\Debug\netcoreapp3.1\SR.pdb
+C:\Users\den40\source\repos\SR\SR\obj\Debug\netcoreapp3.1\SR.csprojAssemblyReference.cache
+C:\Users\den40\source\repos\SR\SR\obj\Debug\netcoreapp3.1\SR.AssemblyInfoInputs.cache
+C:\Users\den40\source\repos\SR\SR\obj\Debug\netcoreapp3.1\SR.AssemblyInfo.cs
+C:\Users\den40\source\repos\SR\SR\obj\Debug\netcoreapp3.1\SR.dll
+C:\Users\den40\source\repos\SR\SR\obj\Debug\netcoreapp3.1\SR.pdb
