@@ -1,0 +1,8 @@
+C:\P\C\Laba 12\obj\Debug\Laba 12.csprojAssemblyReference.cache
+C:\P\C\Laba 12\obj\Debug\Laba_12.Properties.Resources.resources
+C:\P\C\Laba 12\obj\Debug\Laba 12.csproj.GenerateResource.cache
+C:\P\C\Laba 12\bin\Debug\Laba 12.exe.config
+C:\P\C\Laba 12\bin\Debug\Laba 12.exe
+C:\P\C\Laba 12\bin\Debug\Laba 12.pdb
+C:\P\C\Laba 12\obj\Debug\Laba 12.exe
+C:\P\C\Laba 12\obj\Debug\Laba 12.pdb
