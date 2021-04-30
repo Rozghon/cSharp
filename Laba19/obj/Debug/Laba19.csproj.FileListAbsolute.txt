@@ -1,0 +1,9 @@
+C:\P\C\Laba19\obj\Debug\Laba19.csprojAssemblyReference.cache
+C:\P\C\Laba19\obj\Debug\Laba19.Properties.Resources.resources
+C:\P\C\Laba19\obj\Debug\Laba19.csproj.GenerateResource.cache
+C:\P\C\Laba19\bin\Debug\Laba19.exe.config
+C:\P\C\Laba19\bin\Debug\Laba19.exe
+C:\P\C\Laba19\bin\Debug\Laba19.pdb
+C:\P\C\Laba19\obj\Debug\Laba19.exe
+C:\P\C\Laba19\obj\Debug\Laba19.pdb
+C:\P\C\Laba19\obj\Debug\Laba19.Form1.resources
