@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl SelectionChanged="TabControl_SelectionChanged" Margin="28,10,262,168" Grid.ColumnSpan="2">
+            <TabItem Header="Завдання 1">
+                <Grid>
+                    <ComboBox Margin="10,10,0,13" Name="ComboBox1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="194" Height="30">
+
+                    </ComboBox>
+                    <TextBox Name="TextBox1" Height="25" Margin="231,10,69,193"/>
+                    <Button Name="AddButton" Width="80" Height="25" Content="Add Item" Margin="231,62,193,141"/>
+                    <Button Name="DeleteButton" Click="DeleteButton_Click" Content="Delete Item" Margin="348,62,69,143" />
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="t2" Header="Завдання 2">
+                <Grid/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
