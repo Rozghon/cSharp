@@ -1,0 +1,9 @@
+C:\Users\den40\source\repos\Laba18_5\bin\Debug\Laba18_5.exe.config
+C:\Users\den40\source\repos\Laba18_5\bin\Debug\Laba18_5.exe
+C:\Users\den40\source\repos\Laba18_5\bin\Debug\Laba18_5.pdb
+C:\Users\den40\source\repos\Laba18_5\obj\Debug\Laba18_5.csprojAssemblyReference.cache
+C:\Users\den40\source\repos\Laba18_5\obj\Debug\Laba18_5.Properties.Resources.resources
+C:\Users\den40\source\repos\Laba18_5\obj\Debug\Laba18_5.csproj.GenerateResource.cache
+C:\Users\den40\source\repos\Laba18_5\obj\Debug\Laba18_5.exe
+C:\Users\den40\source\repos\Laba18_5\obj\Debug\Laba18_5.pdb
+C:\Users\den40\source\repos\Laba18_5\obj\Debug\Laba18_5.Form1.resources
